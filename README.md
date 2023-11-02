@@ -2,10 +2,10 @@
 **Introduction**<br>
 <br>Welcome to the "Rolling Mathematics Quiz" GitHub repository, the official home of a 3D mobile game developed for "COMP30540: Game Development Assignment 2." This game is designed to make learning mathematics engaging and fun while offering an immersive gaming experience. I chose to build this application for iOS to further my mobile development experience.
 <br>
-**Game Overview**<br>
+<br>**Game Overview**<br>
 <br>"Rolling Mathematics Quiz" takes place in a 3D gaming environment where the player controls a 3D sphere character. The primary objective is to answer multiple-choice mathematics questions and achieve the highest score possible in each quiz.
 <br>
-**Key Features**<br>
+<br>**Key Features**<br>
 <br>**3D Objects:** The game environment includes a variety of 3D objects, including the game world, ball, answer options (A, B, and C), text, button, invisible walls, and a camera.
 <br>
 **Camera Perspective:** A third-person camera perspective offers an immersive view of the game environment, following the ball's movement.
@@ -16,7 +16,7 @@
 <br>
 **Two Difficulty Levels:** Players can access an advanced quiz with a wider range of mathematical operators for a more challenging experience.
 <br>
-**Game Controls**
+<br>**Game Controls**<br>
 <br>**Tilt Action:** Tilt your mobile device to control the ball's movement. The Core Motion capabilities and accelerometer data provide a realistic gaming experience.
 <br>
 **Jumping Action:** Tap the ball on the screen to make it jump in the air, adding an extra dimension to the gameplay.
